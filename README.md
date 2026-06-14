@@ -1,5 +1,5 @@
 # assignment-1-hospital-database
-<!--
+
 The aim of this project was to develop a hospital database looking at the different relationships between hospitals, doctors, patients and prescriptions with the data being included from a pre-given dataset. 
 
 ## Database:
