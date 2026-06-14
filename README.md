@@ -68,8 +68,8 @@ PRIMARY KEY  (doctor_id)
 2. List all prescriptions for a particular patient, ordered by the prescription date.
 3. List all prescriptions that a particular doctor has prescribed.
 4. Add a new patient to the database, including being registered with one of the doctors.
-Identify which doctor has made the most prescriptions.
-List all doctors at the hospital with biggest size.
+5. Identify which doctor has made the most prescriptions.
+6. List all doctors at the hospital with biggest size.
 
 ## SQL FEATURES USED
 - A few of the features used included were:
