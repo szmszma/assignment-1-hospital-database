@@ -81,7 +81,6 @@ WHERE
 ## Files:
 - README.md
 - SQL QUERIES for hospitals database
+- entity relationship diagrams.pptx
 - hospitaldatabase.mysql
-- entity relationship diagram.png
-
 
