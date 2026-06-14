@@ -3,9 +3,9 @@
 The aim of this project was to develop a hospital database looking at the different relationships between hospitals, doctors, patients and prescriptions with the data being included from a pre-given dataset. 
 
 ## Database:
-contains hospitals.csv, doctors.csv, patients.csv and prescriptions.csv.
+contains datasets of: hospitals.csv, doctors.csv, patients.csv and prescriptions.csv.
 
-Four tables were created for these four components of the database and the same SQL schema was used, with the columns being adjusted for each component.
+Four tables were created for hospital database using the four datasets.
 
 ## Hospitals table:
 - hospital_id (Primary key)
@@ -75,8 +75,9 @@ PRIMARY KEY  (doctor_id)
 - A few of the features used included were:
 - CREATE TABLE 
 - INSERT
-- SELECT *FROM
-WHERE 
+- SELECT *FROM .. WHERE
+- SELECT COUNT
+- GROUP BY
 
 ## Files:
 - README.md
